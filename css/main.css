@@ -1211,6 +1211,18 @@ h1 {
     padding-bottom: 16px;
   }
 
+  .review-block button {
+    top: 222px;
+  }
+
+  .prev-review {
+    left: 47px;
+  }
+
+  .next-review {
+    right: 59px;
+  }
+
   .review-block article {
     flex-direction: column;
   }
