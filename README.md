@@ -1,6 +1,6 @@
 # Accelerator-taxi
 
-* Preview site: [Accelerator-taxi](https://mrdreg0.github.io/Accelerator-taxi).
+* Preview site: [Accelerator-taxi](https://mrdreg0.github.io/Accelerator-taxi/).
 
 ---
 
